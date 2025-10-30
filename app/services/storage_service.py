@@ -1,0 +1,1 @@
+# Загрузка Yandex Object Storage
